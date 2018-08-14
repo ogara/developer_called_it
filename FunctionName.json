@@ -1,0 +1,11 @@
+{
+	"Actions": {
+		"Normalise": {
+			"en": "transform input data to expected format",
+			"ru" : "привести входящее значение к нужному виду"
+		}
+	},
+	"Checks": {
+
+	}
+}
