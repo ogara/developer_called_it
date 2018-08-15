@@ -1,11 +1,26 @@
 {
 	"Actions": {
-		"Normalise": {
+		"normalise": {
 			"en": "transform input data to expected format",
-			"ru" : "привести входящее значение к нужному виду"
+			"ru": "привести входящее значение к нужному виду"
+		},
+		"persist": {
+			"en": "Continue executing after something, e.g. aafter validation",
+			"ru": "Продолжать выполнения после чего-то, например валидации"	
+		},
+		"handle": {
+			"en": "Execute statement inside",
+			"ru": "Выполнить комманды внутри"		
+		},
+		"present": {
+			"en": "Show smth in user friendly view",
+			"ru": "Показать что-то в юзер понятном виде"			
 		}
 	},
 	"Checks": {
-
+		"allow": {
+			"en": "allow smth",
+			"ru": "разрешить что-то"			
+		}
 	}
 }

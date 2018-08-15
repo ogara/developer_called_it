@@ -1,0 +1,14 @@
+{
+	"Job": {
+		"ru":"Реализовывает единицу бизнеслогики",
+		"en": "Acts single bisnesslogic unit"
+	},
+	"Policy":{
+		"ru": "Хранит правила для управления доступом пользователя. Может быть использовано для проверки доступа",
+		"en": "Stores rules for manage user access. Could be used for access checking"	
+	},
+	"Gate":{
+		"ru": "Проверяет правила доступа и пропускает или нет процесс дальше",
+		"en": "Checks access rules and allows or prohibits further process execution"
+	}
+}
